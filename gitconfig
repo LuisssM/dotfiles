@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = luispsmiranda.96@gmail.com
+	name = luis miranda
